@@ -19,24 +19,16 @@
             "id": "f0b9d9fd81b3ba27",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "dcd0ef5fa2cb8480",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "contatti.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -106,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "contatti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "contatti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "contatti.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -164,8 +152,7 @@
       "canvas:Crea nuova lavagna": false,
       "daily-notes:Apri nota del giorno": false,
       "templates:Inserisci modello": false,
-      "command-palette:Apri riquadro comandi": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "command-palette:Apri riquadro comandi": false
     }
   },
   "active": "dcd0ef5fa2cb8480",
