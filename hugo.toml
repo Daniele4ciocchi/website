@@ -1,4 +1,10 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Daniele Quattrociocchi'
 theme = 'PaperMod'
+[params]
+    subtitle = 'The Best Widgets on Earth'
+    [params.contact]
+    email = 'info@example.org'
+    phone = '+1 202-555-1212'
+    
