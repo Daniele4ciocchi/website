@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "toml",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +82,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -164,7 +165,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "dcd0ef5fa2cb8480",
+  "active": "925ccd56aae5b316",
   "lastOpenFiles": [
     "themes/PaperMod",
     "public/posts/page/1/index.html",
